@@ -1,9 +1,19 @@
 # IET
-1.  [Home Page](https://www.eng.ntu.edu.tw/iet/Default.html)
+Welcome! To info dump center for IET stuff.
 
-2. [Course Map](https://www.eng.ntu.edu.tw/iet/cl_n_182556.html) 
+Table of Contents:
 
-3. [Course Group](http://140.112.161.31/NTUVoxCourse/index.php/uquery/search-result?semester=114&dpt=5090%20&lang=en&inqudata=Groups)
+1. [Links](#links)
+2. [Pathway](#pathway)
+3. [Tip](#tip)
+
+
+## Links
+- [Home Page](https://www.eng.ntu.edu.tw/iet/Default.html)
+
+- [Course Map](https://www.eng.ntu.edu.tw/iet/cl_n_182556.html) 
+
+- [Course Group](http://140.112.161.31/NTUVoxCourse/index.php/uquery/search-result?semester=114&dpt=5090%20&lang=en&inqudata=Groups)
 
 
 ## Pathway
@@ -16,8 +26,11 @@ Some good ways to take courses. Recommended by professors and students from __IE
 
 2. Dotted arrows - a possible path ( for those who enjoy the _thrill_ )
 
-3. _Coloured_ course names - courses listed in the [IET Course map](https://www.eng.ntu.edu.tw/iet/cl_n_182556.html) 
-4. __Black__ course names - courses __not__ listed in the [IET Course map](https://www.eng.ntu.edu.tw/iet/cl_n_182556.html)
+3. Two-__headed__ arrows: Take the courses at the same time.
+
+4. _Coloured_ course names - courses listed in the [IET Course map](https://www.eng.ntu.edu.tw/iet/cl_n_182556.html) 
+
+5. __Black__ course names - courses __not__ listed in the [IET Course map](https://www.eng.ntu.edu.tw/iet/cl_n_182556.html)
 
 ### Downloads
 If you are unable to see the image clearly, do the following:
@@ -41,7 +54,14 @@ Download .excalidraw file
 5. Edit the file to your liking.
  
 
-This repo wouldn't be possible without the help of many. 
+## Tip
+1. Study with a __Textmap__
 
-Please take your time to give us some suggestions! (and _hidden_ knowledge too!)
+Example:
 
+For _Chemistry_, study with a mapped version of the book [Chemistry - The Central Science](https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.))
+
+
+> This info wouldn't be possible without the help of many. 
+
+Feel free to give us some suggestions! (and _hidden_ knowledge too!)
