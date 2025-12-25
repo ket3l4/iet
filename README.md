@@ -30,7 +30,7 @@ Some good ways to take courses. Recommended by professors and students from __IE
 
 4. _Coloured_ course names - courses listed in the [IET Course map](https://www.eng.ntu.edu.tw/iet/cl_n_182556.html) 
 
-5. __Black__ course names - courses __not__ listed in the [IET Course map](https://www.eng.ntu.edu.tw/iet/cl_n_182556.html)
+5. __Black__ course names - courses __not__ listed in the [IET Course map](https://www.eng.ntu.edu.tw/iet/cl_n_182556.html). Taking these courses might help for understansding courses better and applying for a Master's since your background matches it.
 
 ### Downloads
 If you are unable to see the image clearly, do the following:
