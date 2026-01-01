@@ -7,7 +7,6 @@ Table of Contents:
 2. [Pathway](#pathway)
 3. [Tip](#tip)
 
-
 ## Links
 - [Home Page](https://www.eng.ntu.edu.tw/iet/Default.html)
 
@@ -54,14 +53,26 @@ Download .excalidraw file
 5. Edit the file to your liking.
  
 
-## Tip
+## Tips & tricks
+
 1. Study with a __Textmap__
 
 Example:
 
 For _Chemistry_, study with a mapped version of the book [Chemistry - The Central Science](https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.))
 
+2. Dual Student Status
 
-> This info wouldn't be possible without the help of many. 
+Be a 5th year Undergraduate student while also starting your Master's student.
+
+You can then finish any credits you haven't from your bachelor's.
+
+Source: [Dcard](https://www.dcard.tw/f/ntu/p/255529470)
+
+
+
+
+> This is an info dump, some info might be inaccurate or outdated so please verify with others too.
 
 Feel free to give us some suggestions! (and _hidden_ knowledge too!)
+
