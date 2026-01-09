@@ -71,13 +71,25 @@ You can then finish any credits you haven't from your bachelor's.
 Source: [Dcard](https://www.dcard.tw/f/ntu/p/255529470)
 
 ## Courses
+
+### Calculus
+- [Mathalino](https://mathalino.com/reviewer/differential-calculus/differential-calculus)
+- [OCW](https://ocw.aca.ntu.edu.tw/courses?&category_id=0&college=&mooc=&search=Calculus%20&sort_by=desc&search_type=&grid_type=grid) (all)
+  
 ### Mechanics of Materials 
-practice 
-- [Uomustan](https://uomustansiriyah.edu.iq/media/lectures/5/5_2019_05_25!10_31_11_PM.pdf)
-- [Eng mechanics](https://engineeringmechanicsoer.github.io/StrengthBook/Chapter%202.html)
-- [Mathlaino](https://mathalino.com/)
+- [Mathalino](https://mathalino.com/reviewer/mechanics-and-strength-of-materials/mechanics-and-strength-of-materials) (Textmap)
+- [OCW](https://ocw.aca.ntu.edu.tw/courses/103S111) (Online Course Web)
+- [Uomustan](https://uomustansiriyah.edu.iq/media/lectures/5/5_2019_05_25!10_31_11_PM.pdf) (pdf)
+- [Eng mechanics](https://engineeringmechanicsoer.github.io/StrengthBook/Chapter%202.html) (Imperial units)
 
+### Engineering Mathematics 
+- [OCW Eng Math 1](https://ocw.aca.ntu.edu.tw/courses/113S105)
+- [OCW Eng Math 2](https://ocw.aca.ntu.edu.tw/courses/113S205)
+- [Mathalino](https://mathalino.com/reviewer/advance-engineering-mathematics/advance-engineering-mathematics) (incomplete)
+- 
 
+### Engineering Material (Civil Engineering)
+- 
 
 > This is an info dump, some info might be inaccurate or outdated so please verify with others too.
 
