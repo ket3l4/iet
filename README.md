@@ -6,6 +6,7 @@ Table of Contents:
 1. [Links](#links)
 2. [Pathway](#pathway)
 3. [Tip](#tip)
+4. [Courses](#courses)
 
 ## Links
 - [Home Page](https://www.eng.ntu.edu.tw/iet/Default.html)
@@ -69,6 +70,12 @@ You can then finish any credits you haven't from your bachelor's.
 
 Source: [Dcard](https://www.dcard.tw/f/ntu/p/255529470)
 
+## Courses
+### Mechanics of Materials 
+practice 
+- [Uomustan](https://uomustansiriyah.edu.iq/media/lectures/5/5_2019_05_25!10_31_11_PM.pdf)
+- [Eng mechanics](https://engineeringmechanicsoer.github.io/StrengthBook/Chapter%202.html)
+- [Mathlaino](https://mathalino.com/)
 
 
 
