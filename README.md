@@ -75,7 +75,7 @@ Source: [Dcard](https://www.dcard.tw/f/ntu/p/255529470)
 ### Calculus
 - [Mathalino](https://mathalino.com/reviewer/differential-calculus/differential-calculus)
 - [OCW](https://ocw.aca.ntu.edu.tw/courses?&category_id=0&college=&mooc=&search=Calculus%20&sort_by=desc&search_type=&grid_type=grid) (all)
-  
+- [Paul's notes](¡https://tutorial.math.lamar.edu/Classes/CalcIII/CalcIII.aspx) (calc 3)
 ### Mechanics of Materials 
 - [Mathalino](https://mathalino.com/reviewer/mechanics-and-strength-of-materials/mechanics-and-strength-of-materials) (Textmap)
 - [OCW](https://ocw.aca.ntu.edu.tw/courses/103S111) (Online Course Web)
@@ -86,7 +86,9 @@ Source: [Dcard](https://www.dcard.tw/f/ntu/p/255529470)
 - [OCW Eng Math 1](https://ocw.aca.ntu.edu.tw/courses/113S105)
 - [OCW Eng Math 2](https://ocw.aca.ntu.edu.tw/courses/113S205)
 - [Mathalino](https://mathalino.com/reviewer/advance-engineering-mathematics/advance-engineering-mathematics) (incomplete)
-- 
+- [Paul's notes](https://tutorial.math.lamar.edu/Classes/DE/DE.aspx) (differential equations)
+
+
 
 ### Engineering Material (Civil Engineering)
 - 
