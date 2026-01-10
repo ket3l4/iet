@@ -75,7 +75,13 @@ Source: [Dcard](https://www.dcard.tw/f/ntu/p/255529470)
 ### Calculus
 - [Mathalino](https://mathalino.com/reviewer/differential-calculus/differential-calculus)
 - [OCW](https://ocw.aca.ntu.edu.tw/courses?&category_id=0&college=&mooc=&search=Calculus%20&sort_by=desc&search_type=&grid_type=grid) (all)
+
+#### Calculus 3 
 - [Paul's notes](¡https://tutorial.math.lamar.edu/Classes/CalcIII/CalcIII.aspx) (calc 3)
+##### Continuity
+- [libretext](https://math.libretexts.org/Bookshelves/Calculus/Calculus_3e_(Apex)/12%3A_Functions_of_Several_Variables/12.02%3A_Limits_and_Continuity_of_Multivariable_Functions)
+- [Paul's notes](https://tutorial.math.lamar.edu/classes/calciii/limits.aspx)
+
 ### Mechanics of Materials 
 - [Mathalino](https://mathalino.com/reviewer/mechanics-and-strength-of-materials/mechanics-and-strength-of-materials) (Textmap)
 - [OCW](https://ocw.aca.ntu.edu.tw/courses/103S111) (Online Course Web)
