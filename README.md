@@ -54,7 +54,7 @@ Download .excalidraw file
 5. Edit the file to your liking.
  
 
-## Tips & tricks
+## Tips
 
 1. Study with a __Textmap__
 
@@ -77,7 +77,7 @@ Source: [Dcard](https://www.dcard.tw/f/ntu/p/255529470)
 - [OCW](https://ocw.aca.ntu.edu.tw/courses?&category_id=0&college=&mooc=&search=Calculus%20&sort_by=desc&search_type=&grid_type=grid) (all)
 
 #### Calculus 3 
-- [Paul's notes](¡https://tutorial.math.lamar.edu/Classes/CalcIII/CalcIII.aspx) (calc 3)
+- [Paul's notes](https://tutorial.math.lamar.edu/Classes/CalcIII/CalcIII.aspx) (calc 3)
 ##### Continuity
 - [libretext](https://math.libretexts.org/Bookshelves/Calculus/Calculus_3e_(Apex)/12%3A_Functions_of_Several_Variables/12.02%3A_Limits_and_Continuity_of_Multivariable_Functions)
 - [Paul's notes](https://tutorial.math.lamar.edu/classes/calciii/limits.aspx)
