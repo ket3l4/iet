@@ -92,8 +92,10 @@ Source: [Dcard](https://www.dcard.tw/f/ntu/p/255529470)
 - [OCW Eng Math 1](https://ocw.aca.ntu.edu.tw/courses/113S105)
 - [OCW Eng Math 2](https://ocw.aca.ntu.edu.tw/courses/113S205)
 - [Mathalino](https://mathalino.com/reviewer/advance-engineering-mathematics/advance-engineering-mathematics) (incomplete)
-- [Paul's notes](https://tutorial.math.lamar.edu/Classes/DE/DE.aspx) (differential equations)
 
+#### Differential Equations 
+- [Paul's notes](https://tutorial.math.lamar.edu/Classes/DE/DE.aspx)
+- [Libretext](https://math.libretexts.org/Bookshelves/Differential_Equations/Introduction_to_Partial_Differential_Equations_(Herman)/12%3A_B_-_Ordinary_Differential_Equations_Review)
 
 
 ### Engineering Material (Civil Engineering)
