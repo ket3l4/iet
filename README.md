@@ -1,6 +1,10 @@
 # IET
 Welcome! To info dump center for IET stuff.
 
+> Disclaimer :  This is an info dump, some info might be inaccurate or outdated so please verify with others too.
+
+Feel free to give us some suggestions! (and _hidden_ knowledge too!)
+
 Table of Contents:
 
 1. [Links](#links)
@@ -101,7 +105,4 @@ Source: [Dcard](https://www.dcard.tw/f/ntu/p/255529470)
 ### Engineering Material (Civil Engineering)
 - 
 
-> This is an info dump, some info might be inaccurate or outdated so please verify with others too.
-
-Feel free to give us some suggestions! (and _hidden_ knowledge too!)
 
