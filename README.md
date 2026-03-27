@@ -1,11 +1,16 @@
 # IET
 Welcome! To info dump center for IET stuff.
 
+> Disclaimer :  This is an info dump, some info might be inaccurate or outdated so please verify with others too.
+
+Feel free to give us some suggestions! (and _hidden_ knowledge too!)
+
 Table of Contents:
 
 1. [Links](#links)
 2. [Pathway](#pathway)
 3. [Tip](#tip)
+4. [Courses](#courses)
 
 ## Links
 - [Home Page](https://www.eng.ntu.edu.tw/iet/Default.html)
@@ -53,7 +58,7 @@ Download .excalidraw file
 5. Edit the file to your liking.
  
 
-## Tips & tricks
+## Tips
 
 1. Study with a __Textmap__
 
@@ -69,10 +74,35 @@ You can then finish any credits you haven't from your bachelor's.
 
 Source: [Dcard](https://www.dcard.tw/f/ntu/p/255529470)
 
+## Courses
+
+### Calculus
+- [Mathalino](https://mathalino.com/reviewer/differential-calculus/differential-calculus)
+- [OCW](https://ocw.aca.ntu.edu.tw/courses?&category_id=0&college=&mooc=&search=Calculus%20&sort_by=desc&search_type=&grid_type=grid) (all)
+
+#### Calculus 3 
+- [Paul's notes](https://tutorial.math.lamar.edu/Classes/CalcIII/CalcIII.aspx) (calc 3)
+##### Continuity
+- [libretext](https://math.libretexts.org/Bookshelves/Calculus/Calculus_3e_(Apex)/12%3A_Functions_of_Several_Variables/12.02%3A_Limits_and_Continuity_of_Multivariable_Functions)
+- [Paul's notes](https://tutorial.math.lamar.edu/classes/calciii/limits.aspx)
+
+### Mechanics of Materials 
+- [Mathalino](https://mathalino.com/reviewer/mechanics-and-strength-of-materials/mechanics-and-strength-of-materials) (Textmap)
+- [OCW](https://ocw.aca.ntu.edu.tw/courses/103S111) (Online Course Web)
+- [Uomustan](https://uomustansiriyah.edu.iq/media/lectures/5/5_2019_05_25!10_31_11_PM.pdf) (pdf)
+- [Eng mechanics](https://engineeringmechanicsoer.github.io/StrengthBook/Chapter%202.html) (Imperial units)
+
+### Engineering Mathematics 
+- [OCW Eng Math 1](https://ocw.aca.ntu.edu.tw/courses/113S105)
+- [OCW Eng Math 2](https://ocw.aca.ntu.edu.tw/courses/113S205)
+- [Mathalino](https://mathalino.com/reviewer/advance-engineering-mathematics/advance-engineering-mathematics) (incomplete)
+
+#### Differential Equations 
+- [Paul's notes](https://tutorial.math.lamar.edu/Classes/DE/DE.aspx)
+- [Libretext](https://math.libretexts.org/Bookshelves/Differential_Equations/Introduction_to_Partial_Differential_Equations_(Herman)/12%3A_B_-_Ordinary_Differential_Equations_Review)
 
 
+### Engineering Material (Civil Engineering)
+- 
 
-> This is an info dump, some info might be inaccurate or outdated so please verify with others too.
-
-Feel free to give us some suggestions! (and _hidden_ knowledge too!)
 
