@@ -74,6 +74,11 @@ You can then finish any credits you haven't from your bachelor's.
 
 Source: [Dcard](https://www.dcard.tw/f/ntu/p/255529470)
 
+3. Local version of IET Program
+
+[Interdisciplinary Bachelor's in Engineering](https://www.eng.ntu.edu.tw/tc/page.aspx?mid=138) (工學院院學士學位) [50A0], some of the courses are the same as IET but it has a lot more course options as most courses are chinese-taught. 
+
+
 ## Courses
 
 ### Calculus
@@ -91,6 +96,7 @@ Source: [Dcard](https://www.dcard.tw/f/ntu/p/255529470)
 - [OCW](https://ocw.aca.ntu.edu.tw/courses/103S111) (Online Course Web)
 - [Uomustan](https://uomustansiriyah.edu.iq/media/lectures/5/5_2019_05_25!10_31_11_PM.pdf) (pdf)
 - [Eng mechanics](https://engineeringmechanicsoer.github.io/StrengthBook/Chapter%202.html) (Imperial units)
+- [Shear and Moment Diagram & Calculator](https://optimalbeam.com/beam-calculator.php) (website)
 
 ### Engineering Mathematics 
 - [OCW Eng Math 1](https://ocw.aca.ntu.edu.tw/courses/113S105)
