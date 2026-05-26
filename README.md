@@ -97,7 +97,8 @@ Source: [Dcard](https://www.dcard.tw/f/ntu/p/255529470)
 - [Uomustan](https://uomustansiriyah.edu.iq/media/lectures/5/5_2019_05_25!10_31_11_PM.pdf) (pdf)
 - [Eng mechanics](https://engineeringmechanicsoer.github.io/StrengthBook/Chapter%202.html) (Imperial units)
 - [Shear and Moment Diagram & Calculator](https://optimalbeam.com/beam-calculator.php) (website)
-
+- [Moh Circle with angled stresses](https://demonstrations.wolfram.com/MohrsCircleAndStressTransformations/)
+  
 ### Engineering Mathematics 
 - [OCW Eng Math 1](https://ocw.aca.ntu.edu.tw/courses/113S105)
 - [OCW Eng Math 2](https://ocw.aca.ntu.edu.tw/courses/113S205)
